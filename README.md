@@ -2,6 +2,7 @@
 
 > 基于vue前端与flask后端做的网设比赛作品
 
+点击以体验：[喜迎建国七十周年](https://juniancc.top/#/)
 
 ## Build Setup
 
