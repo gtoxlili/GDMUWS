@@ -11,7 +11,7 @@
       <Content style="width:1480px;margin-left: auto;margin-right: auto;">
        
 <template>
-    <div style="height:50px"></div>
+    <div style="height:20px"></div>
     <Row type="flex" justify="space-around">
         <Col span="10">
   

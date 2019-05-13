@@ -16,6 +16,7 @@ Vue.prototype.changeData = function (){
 }
 
 Vue.use(iView);
+Vue.config.silent = true
 Vue.config.productionTip = false
 Vue.http = Vue.prototype.$http = request
 Vue.http = Vue.prototype.$mishi = mishi

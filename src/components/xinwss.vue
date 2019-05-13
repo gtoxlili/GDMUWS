@@ -208,21 +208,22 @@ export default {
                 xcszzjg:[],
                 meiyss:true,
                 spinShow223:false,
-                spinShow222:true
+                spinShow222:true,
+                eqwewqeq:""
             }
         },created: function () {
                this.sdawerwq()
         },
         methods: {
             zxgzclick(val){
-                this.model13=val
+                this.eqwewqeq=val
                 this.dawerte(1)
             },
             weqeqwe213(val){
                 this.dawerte(val)
             },
             dawerte(dsdaqwq){
-                if(this.model13){
+                if(this.eqwewqeq){
                 this.meiyss=false
                 this.xcszzjg=[]
                 this.spinShow223=true
@@ -237,7 +238,7 @@ export default {
                "X-LC-Id": "UBFVxA4cxVYGwsGDDRiFoLNM-gzGzoHsz",
           }, body: {
                'mishi':this.$mishi(),
-               "q":this.model13,
+               "q":this.eqwewqeq,
                "page":dsdaqwq
           }
      }, function (err, res, body) {
@@ -272,13 +273,16 @@ export default {
             wqeqwdsa(sa){
                 if(sa){
                         this.options1= []
+                }else{
+                this.dawerte(1)
                 }
                 
             },
             remoteMethod1 (query) {
-     
+                
                     this.loading1 = true;
-
+                    this.eqwewqeq=query
+                        console.log(this.eqwewqeq)
                        const that = this
                  this.$http({
           method: "POST",
