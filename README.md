@@ -50,10 +50,10 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## 程序截图
 
-![Alt text](https://github.com/Glovecc/GDMURSWS/blob/master/static/1(1).png)
-![Alt text](https://github.com/Glovecc/GDMURSWS/blob/master/static/1(2).png)
-![Alt text](https://github.com/Glovecc/GDMURSWS/blob/master/static/1(3).png)
-![Alt text](https://github.com/Glovecc/GDMURSWS/blob/master/static/1(4).png)
-![Alt text](https://github.com/Glovecc/GDMURSWS/blob/master/static/1(5).png)
-![Alt text](https://github.com/Glovecc/GDMURSWS/blob/master/static/1(6).png)
-![Alt text](https://github.com/Glovecc/GDMURSWS/blob/master/static/1(7).png)
+![Alt text](https://github.com/Glovecc/GDMUWS/blob/master/static/1%20(1).jpg)
+![Alt text](https://github.com/Glovecc/GDMUWS/blob/master/static/1%20(2).jpg)
+![Alt text](https://github.com/Glovecc/GDMUWS/blob/master/static/1%20(3).jpg)
+![Alt text](https://github.com/Glovecc/GDMUWS/blob/master/static/1%20(4).jpg)
+![Alt text](https://github.com/Glovecc/GDMUWS/blob/master/static/1%20(5).jpg)
+![Alt text](https://github.com/Glovecc/GDMUWS/blob/master/static/1%20(6).jpg)
+![Alt text](https://github.com/Glovecc/GDMUWS/blob/master/static/1%20(7).jpg)
