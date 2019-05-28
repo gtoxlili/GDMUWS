@@ -2,7 +2,7 @@
 
 > 基于 vue 前端与 flask 后端做的网设比赛作品
 
-点击以体验：[喜迎建国七十周年](https://juniancc.top/#/)
+点击以体验：[喜迎建国七十周年](https://ws.juniancc.top/)
 
 ## 技术栈
 
